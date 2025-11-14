@@ -14,11 +14,11 @@ const Profile = () => {
       />
 
       {/* Text Section */}
-      <div className="ml-6">
-        <h1 className="font-bold leading-none text-xl">
+      <div className="ml-4">
+        <h1 className="font-semibold leading-none text-xl">
           Hey, I am Dipanshi
         </h1>
-        <p className="text-gray-500 mt-2">
+        <p className="text-gray-500 mt-1">
           A frontend software engineer, focused on scalability and user experience.
         </p>
         <p className="text-gray-500 mt-0">22, she/her</p>
