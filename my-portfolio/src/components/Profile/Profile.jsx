@@ -1,20 +1,56 @@
 
+// import React from 'react'
+// import profilePic from '../../assets/profile.jpg'
+
+// const Profile = () => {
+//   return (
+//     <div className="flex items-center ml-60 mt-8  ">
+      
+//       {/* Profile Image */}
+//       <img
+//         src={profilePic}
+//         alt="Profile"
+//         className="w-18 h-18 rounded-full object-cover"
+//       />
+
+//       {/* Text Section */}
+//       <div className="ml-4">
+//         <h1 className="font-semibold leading-none text-xl">
+//           Hey, I am Dipanshi
+//         </h1>
+//         <p className="text-gray-500 mt-1">
+//           A frontend software engineer, focused on scalability and user experience.
+//         </p>
+//         <p className="text-gray-500 mt-0">22, she/her</p>
+//       </div>
+//     </div>
+//   )
+// }
+
+// export default Profile
+ 
+
+
+
+
+
+
 import React from 'react'
 import profilePic from '../../assets/profile.jpg'
 
 const Profile = () => {
   return (
-    <div className="flex items-center ml-60 mt-8 ">
+    <div className="flex items-center mt-8 gap-3"> 
       
       {/* Profile Image */}
       <img
         src={profilePic}
         alt="Profile"
-        className="w-18 h-18 rounded-full object-cover"
+        className="w-14 h-14 rounded-full object-cover sm:w-18 sm:h-18"
       />
 
       {/* Text Section */}
-      <div className="ml-4">
+      <div>
         <h1 className="font-semibold leading-none text-xl">
           Hey, I am Dipanshi
         </h1>
@@ -28,3 +64,7 @@ const Profile = () => {
 }
 
 export default Profile
+ 
+
+
+
