@@ -8,7 +8,7 @@ import Contact from '../Contacts/Contact'
 
 const Home = () => {
   return (
-    <div className='mx-8 w-screen h-full lg:ml-60 lg:w-3/5 md:mx-8 md:w-180'>
+    <div className='mx-8 w-screen h-full lg:ml-60 lg:w-3/5 md:mx-8 md:w-180 '>
       <Navbar />
       <Profile />
       <AboutMe />
