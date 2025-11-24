@@ -27,7 +27,7 @@ const Experience = () => {
         "Gained experience in scalable front-end architectures, improving engagement with clean UI and modern practices.",
     },
     {
-      title: "Frontend Development Intern",
+      title: "Web Development Intern",
       companyName: "Bharat Intern",
       companyLink: "https://www.bharatintern.com/",
       duration: "July 2023 – August 2023",
