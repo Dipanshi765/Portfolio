@@ -7,6 +7,16 @@ import InternshipCard from "../Internships/InternshipCard";
 const Experience = () => {
   const internships = [
     {
+      title: "LLM Post-Training Intern",
+      companyName: "Ethara AI",
+      companyLink: "https://www.ethara.ai/",
+      duration: "January 2026 – Present",
+      point1:
+        "Contributed to the MultiMango platform by performing multimodal evaluations across tasks like text-to-image and text-to-speech.",
+      point2:
+        "Improved AI model quality, alignment, and output consistency through detailed analysis and generalist task execution.",
+    },
+    {
       title: "Frontend Development Intern",
       companyName: "The RD Group of Industries",
       companyLink: "https://www.therdgroupofindustries.in/",
