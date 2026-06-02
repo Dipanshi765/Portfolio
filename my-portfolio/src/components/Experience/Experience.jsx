@@ -7,14 +7,16 @@ import InternshipCard from "../Internships/InternshipCard";
 const Experience = () => {
   const internships = [
     {
-      title: "LLM Post-Training Intern",
+      title: "Frontend Developer and LLM Post-Training Intern",
       companyName: "Ethara AI",
       companyLink: "https://www.ethara.ai/",
-      duration: "January 2026 – Present",
+      duration: "January 2026 – May 2026",
       point1:
-        "Contributed to the MultiMango platform by performing multimodal evaluations across tasks like text-to-image and text-to-speech.",
+        "Developed responsive AI-powered dashboards using React.js, reusable components, and API integrations to visualize model performance and business metrics",
       point2:
-        "Improved AI model quality, alignment, and output consistency through detailed analysis and generalist task execution.",
+        "Contributed to LLM post-training through response evaluation, annotation, alignment testing, and quality assurance to improve model reliability.",
+      point3:
+        "Performed multimodal AI evaluations across text-to-image, text-to-speech, and other generalist tasks on the MultiMango platform, enhancing output quality and consistency.",
     },
     {
       title: "Frontend Development Intern",
