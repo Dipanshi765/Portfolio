@@ -6,6 +6,18 @@ import InternshipCard from "../Internships/InternshipCard";
 
 const Experience = () => {
   const internships = [
+     {
+      title: "Software Developer Intern",
+      companyName: "Welldone Heallthcare",
+      companyLink: "https://welldonehealth.in/",
+      duration: "August 2026 – Present",
+      point1:
+        "Contributed to the development of ABDM (Ayushman Bharat Digital Mission)-based healthcare applications, focusing on UI development and functionality enhancements.",
+      point2:
+        "Developed and enhanced healthcare dashboard modules, including Transactions, Dental Care, and Consent Management, using React.js and reusable components.",
+      point3:
+        "Integrated REST APIs to fetch and manage data, resolved UI bugs, and optimized application functionality, responsiveness, and user experience.",
+    },
     {
       title: "Frontend Developer and LLM Post-Training Intern",
       companyName: "Ethara AI",
